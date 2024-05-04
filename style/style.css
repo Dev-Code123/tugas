@@ -1,0 +1,22 @@
+body {
+    background-color: #183D3D;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.img-profile {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: top bottom;
+}
+
+.active {
+    color: red !important;
+    /* Change color as needed */
+}
